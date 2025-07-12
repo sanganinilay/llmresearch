@@ -7,6 +7,7 @@
     <ul>
         <li><a href="login.jsp">Login (SQL Injection)</a></li>
         <li><a href="comment.jsp">Comment (XSS)</a></li>
+        <li><a href="path.jsp">Path Manipulation (Directory Traversal)</a></li>
     </ul>
     <p><strong>Warning:</strong> This app is intentionally insecure for educational purposes only.</p>
 </body>
